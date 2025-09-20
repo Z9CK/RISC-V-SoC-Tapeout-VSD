@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Logs
+*.log
+
+# Build outputs
+build/
