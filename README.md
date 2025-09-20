@@ -31,4 +31,4 @@ Thanks to **Kunal Ghosh** and the **VSD team** for running this program and givi
 
 ---
 
-👨‍💻 Participant: [TheVoltageVikingRam](https://github.com/TheVoltageVikingRam)
+👨‍💻 Participant: [TheVoltageVikingRam](https://github.com/Z9CK)
